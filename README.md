@@ -12,4 +12,11 @@ Infinity Runner é um jogo de corrida infinita desenvolvido em Python utilizando
 
 - Python 3.x
 - Pygame
+  
+## Estrutura do Projeto
 
+- `main.py`: Arquivo principal do jogo.
+- `player.py`: Controle do personagem.
+- `obstacles.py`: Geração e controle de obstáculos.
+- `settings.py`: Configurações do jogo, como velocidade e tamanho da tela.
+- `assets/`: Diretório contendo imagens e sons utilizados no jogo.
