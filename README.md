@@ -10,7 +10,7 @@ Infinity Runner é um jogo de corrida infinita desenvolvido em Python utilizando
 
 ## Requisitos
 
-- Python 3.x
+- Python 3
 - Pygame
   
 ## Estrutura do Projeto
