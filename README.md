@@ -18,4 +18,4 @@ Infinity Runner é um jogo de corrida infinita desenvolvido em Python utilizando
 - `jogo.py`: Arquivo principal do jogo.
 - `Imagens`: Pasta com as imagens do jogo.
 - `Audio`: Pasta com os áudios do jogo.
-- `assets/`: Diretório contendo imagens e sons utilizados no jogo.
+- `Fonte`: Pasta com as fontes utilizadas no jogo.
